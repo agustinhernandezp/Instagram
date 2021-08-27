@@ -1,0 +1,27 @@
+#galeria .col-lg-4{
+    margin: 0 !important;
+    padding: 20px;
+}
+#galeria img {
+    width: 100%;
+    height: 250px;
+    float: none;
+}
+
+#galeria img{
+    margin: 0 !important;
+    width: 100%;
+    object-fit: cover;
+}
+
+.card {
+    margin: 0 auto;
+    float: none;
+    margin-bottom: 10px;
+    
+}
+
+.form-control{
+    width: 75%;
+}
+

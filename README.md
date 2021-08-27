@@ -23,4 +23,41 @@ $ pip3 install flask && python3 server.py
   <link rel="stylesheet" type="text/css" href="styles.css">
   ...
 </head>
-```
+
+<body>
+  <section id="galeria" class="container">
+     <div class="row">
+       <div class="col-lg-4">
+         <img src="img/>
+       </div>
+        <div class="col-lg-4">
+         
+       </div>
+        <div class="col-lg-4">
+         
+       </div>
+        <div class="col-lg-4">
+         
+       </div>
+        <div class="col-lg-4">
+         
+       </div>
+        <div class="col-lg-4">
+         
+       </div>
+        <div class="col-lg-4">
+         
+       </div>
+        <div class="col-lg-4">
+         
+       </div>
+        <div class="col-lg-4">
+         
+       </div>
+
+      
+
+
+
+
+      </section>
